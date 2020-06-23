@@ -1,1 +1,1 @@
-# vec4code-content-assist
+# code-completion-extractor
